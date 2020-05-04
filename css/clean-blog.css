@@ -409,3 +409,8 @@ footer .copyright {
   font-size: 16px;
   padding: 25px 35px;
 }
+
+#gallery{
+  padding-top: 50px;
+  background-color: #212529;
+}
